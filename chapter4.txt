@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+This shall be hence forth known as chapter 4...
+=======
+This is a chapter 4 attempt walla 
+>>>>>>> alien-plot
